@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "fubby",
+    "slug": "fubby",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#dcd0ff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bhavana.fubby",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.bhavana.fubby",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "plugins": ["expo-secure-store"]
+  }
+}
