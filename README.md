@@ -68,7 +68,7 @@ Fubby provides an interactive marketplace experience:
     <img src="https://drive.google.com/uc?id=1EAD-CSztEoH266IaIGTYbdQ5EZ81QYbI" width="500">
 </div>
 
----
+---  
 
 ### Posting a New Item  
 - **Post Screen (Empty)**:  
@@ -88,6 +88,12 @@ Fubby provides an interactive marketplace experience:
 
 - **Catalog Posted Successfully**:  
 <div align="center">
+    <img src="https://drive.google.com/uc?id=1VTfsHXKWmAXqOmMOTfnCi8M2FIXL5nXe" width="500">
+</div>
+
+- **Success Confirmation (Detailed View)**:  
+<div align="center">
+    <img src="https://drive.google.com/uc?id=16j9l-Svu7KjuUfjiihpkcLyMOmg895Sg" width="500">
     <img src="https://drive.google.com/uc?id=14c6xvG4H-M7lzgmcKWKJwJeWGkZ7Tx3q" width="500">
 </div>
 
