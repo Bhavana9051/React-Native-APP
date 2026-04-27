@@ -136,3 +136,4 @@ Fubby provides an interactive marketplace experience:
 2. **Navigate to the project directory**
 3. **Install dependencies**: `npm install`
 4. **Run the app**: `npx expo start`
+5. for backend to setup - Repo is hosted here: https://github.com/Bhavana9051/fubby_backend
